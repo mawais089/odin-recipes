@@ -1,1 +1,1 @@
-# odin-recipes
+Its a simple HTML website. Its a wesbsite which will contain recipes and i learn about the basics of HTML.
